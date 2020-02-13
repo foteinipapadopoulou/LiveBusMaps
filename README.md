@@ -1,5 +1,5 @@
 # LiveBusMaps
-This Project is based on Publish/Subscribe system and was created in terms of course Distributed Systems in the 6th semester of Departement Informatics. 
+This Project is based on Publish/Subscribe system and was created in terms of course Distributed Systems in the 6th semester of Departement of Computer Science @ AUEB. 
 
 
 ### Publish/Subscribe System
