@@ -39,5 +39,7 @@ First , you should type the port ,ip of the Broker you want to connect first and
 
 After installing apk to your android smartphone, you can interact with the app.
 
-![gif](images/giphy5 (1).gif)
 ![gif](images/giphy5 (2).gif)
+
+
+![gif](images/giphy5 (1).gif)
